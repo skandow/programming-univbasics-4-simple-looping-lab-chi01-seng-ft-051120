@@ -17,7 +17,7 @@ end
 
 def output_array(array)
   message = ""
-  count += 0
+  count = 0
   while count < array.length do 
     message += array[count]
     count += 1 
